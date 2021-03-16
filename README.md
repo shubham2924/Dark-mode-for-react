@@ -4,6 +4,7 @@ Before the official documentation of CRA there few imp things to keep eye on:
 
 # 1.Make sure you have these libraries added if not just enter this line into the cmd:
 npm i react-toggle-dark-mode 
+
 npm i --save styled-components
 
 
